@@ -24,3 +24,5 @@ yarn-error.log*
 
 # Local proprietary agent skills
 .agents/
+.vercel
+.env*
